@@ -1,0 +1,16 @@
+windows requires project version to be in N.N.N.N form,
+ n meaning a >= 0 integer
+
+before release:
+	"contender . beta . alpha . pre_alpha"
+
+after release:
+	"major update . medium update . game breaking fixes version . minor fixes version"
+
+
+
+before release:
+	0.0.0.1 = " pre alpha 1"
+
+after release:
+	1.2.5.2 = " major update 1, medium update 2 , game breaking fixes version 5, minor fixes version 2 "

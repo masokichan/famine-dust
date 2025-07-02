@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=3 uid="uid://d0n3c35bur5x1"]
+
+[ext_resource type="Material" uid="uid://dvtgwhhnm08d" path="res://materials/map_debug.tres" id="1_gynrd"]
+
+[node name="MAP" type="Node3D"]
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="."]
+transform = Transform3D(-0.866023, -0.433016, 0.250001, 0, 0.499998, 0.866027, -0.500003, 0.749999, -0.43301, 0, 0, 0)
+shadow_enabled = true
+directional_shadow_split_1 = 0.007
+directional_shadow_split_2 = 0.077
+directional_shadow_blend_splits = true
+
+[node name="CSGCombiner3D" type="CSGCombiner3D" parent="."]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, -0.5, 0)
+use_collision = true
+
+[node name="CSGBox3D" type="CSGBox3D" parent="CSGCombiner3D"]
+size = Vector3(16, 1, 16)
+material = ExtResource("1_gynrd")

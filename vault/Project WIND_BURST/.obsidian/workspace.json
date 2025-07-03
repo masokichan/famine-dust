@@ -13,22 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "'FOUNTAIN'.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "'FOUNTAIN'"
             }
           }
         ]
       },
       {
-        "id": "7252b3d4e93d8002",
+        "id": "6a1e4ef94da0a151",
         "type": "tabs",
         "children": [
           {
-            "id": "8691939f8f4236e2",
+            "id": "fbb404263e9440ea",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -184,8 +184,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a249fb2bd1c4f79",
+  "active": "e9723cf1190c6918",
   "lastOpenFiles": [
-    "Welcome.md"
+    "KR-0006.md",
+    "'FOUNTAIN'.md"
   ]
 }

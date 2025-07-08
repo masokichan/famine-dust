@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="PROJECT_WINDBURST"
+run/main_scene="uid://c3hmjg1b7ebiv"
 config/features=PackedStringArray("4.4", "Forward Plus")
 
 [dotnet]

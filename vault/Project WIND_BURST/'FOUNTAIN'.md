@@ -1,1 +1,0 @@
-"FOUNTAIN" , (aka) KR-0006 ()

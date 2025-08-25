@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Garden.md",
+                "file": "Concepts/The New World.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garden"
+              "title": "The New World"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Garden.md",
+                "file": "Concepts/The New World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Garden"
+              "title": "Backlinks for The New World"
             }
           },
           {
@@ -129,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Garden.md",
+                "file": "Concepts/The New World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Garden"
+              "title": "Outgoing links from The New World"
             }
           },
           {
@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Garden.md",
+                "file": "Concepts/The New World.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Garden"
+              "title": "Outline of The New World"
             }
           }
         ]
@@ -188,9 +188,11 @@
   },
   "active": "a7ffbf1d3cc823d8",
   "lastOpenFiles": [
-    "World/Gateway.md",
-    "World/Garden.md",
-    "World",
+    "Concepts/Gods.md",
+    "Concepts/The New World.md",
+    "Concepts/Garden.md",
+    "Concepts/Gateway.md",
+    "Concepts",
     "Untitled.base",
     "Welcome.md",
     "Untitled 3.base",

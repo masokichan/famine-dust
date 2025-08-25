@@ -1,1 +1,2 @@
-"Hub" containing a network of worlds connected via [[Gateway|Gateways]], the backbone of [[The New World]]'s travel system.
+#Concepts
+"Hub" containing a network of worlds connected via [[Gateway|Gateways]].

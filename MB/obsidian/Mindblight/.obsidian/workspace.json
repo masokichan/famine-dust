@@ -1,27 +1,40 @@
 {
   "main": {
-    "id": "3aa89ee53ace0e0c",
+    "id": "8e15e3ddfb557bc8",
     "type": "split",
     "children": [
       {
-        "id": "f4c33bb7dea4a5b0",
+        "id": "2ab710783ebf8f8d",
         "type": "tabs",
         "children": [
           {
-            "id": "433e1d0e7f2da016",
+            "id": "a7ffbf1d3cc823d8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.3333333333333333
-                }
+                "file": "World/Garden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Garden"
+            }
+          }
+        ]
+      },
+      {
+        "id": "35ae054276d2a43a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540e1cbe1d3c7bc0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -30,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "958e071004494fe6",
+    "id": "d71c7c90d8046667",
     "type": "split",
     "children": [
       {
-        "id": "eb8f0e5057b01461",
+        "id": "7d83432406f98cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "e9723cf1190c6918",
+            "id": "ecac4eab9eca6198",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +64,7 @@
             }
           },
           {
-            "id": "9e5d3ada16107042",
+            "id": "af22f86438441e0f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +81,7 @@
             }
           },
           {
-            "id": "27addb84609471ed",
+            "id": "56774b2871c60827",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -84,20 +97,20 @@
     "width": 300
   },
   "right": {
-    "id": "370f71850b4e2bd0",
+    "id": "dafcfdee7b74c1af",
     "type": "split",
     "children": [
       {
-        "id": "0dffc6f86507f676",
+        "id": "aed6f3a0529b1a98",
         "type": "tabs",
         "children": [
           {
-            "id": "e77fe41e4be6f6af",
+            "id": "025869d87a8bc72c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "World/Garden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +120,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Garden"
             }
           },
           {
-            "id": "499250446f3829f6",
+            "id": "306514286544d0c0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "World/Garden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Garden"
             }
           },
           {
-            "id": "c532aefbcbab831d",
+            "id": "986e02cbca2d9a42",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,18 +153,18 @@
             }
           },
           {
-            "id": "0ee6cb54dcaf1203",
+            "id": "d358f2eacaca0add",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "World/Garden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Garden"
             }
           }
         ]
@@ -163,19 +176,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "publish:Publish changes...": false
     }
   },
-  "active": "433e1d0e7f2da016",
+  "active": "a7ffbf1d3cc823d8",
   "lastOpenFiles": [
-    "'FOUNTAIN'.md",
-    "Subjects.md",
-    "Untitled.canvas",
-    "KR-0006.md"
+    "World/Gateway.md",
+    "World/Garden.md",
+    "World",
+    "Untitled.base",
+    "Welcome.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base"
   ]
 }

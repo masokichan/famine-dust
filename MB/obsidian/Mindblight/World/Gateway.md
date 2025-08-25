@@ -1,0 +1,1 @@
+Door-like passages to different worlds within the same [[Garden|Garden]]. They're usually found with commodity from the cognates, 

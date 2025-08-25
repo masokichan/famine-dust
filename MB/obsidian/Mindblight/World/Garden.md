@@ -1,0 +1,1 @@
+"Hub" containing a network of worlds connected via [[Gateway|Gateways]], the backbone of 

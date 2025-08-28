@@ -1,0 +1,1 @@
+[[TODO! M0DEL]] type SHORE, created for the purpose of helping welding and temperature-heavy activity on [[TODO! Gloritchke]] 

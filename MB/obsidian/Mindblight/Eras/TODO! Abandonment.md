@@ -1,0 +1,4 @@
+[[TODO! Theseus]] , after establishing [[The New World]], began to have internal conflict within its council due to members seeking different things, of which after 50 years it culminated in a meeting with all the members with power on a single, empty world made of granite caves, in which they had built their meet out of the bone of which they had eaten before, impossibly large marble pillars ,fog pale white, a ceiling impossible to witness, white and black marble chequered floors; connected only via [[TODO! Gateway]].
+
+
+A fed up member(TODO: NAME CHARACTER) got sick of the other's non-committal to pure power over one self, who in a moment of climax destroyed the [[TODO! Gateway]] leading back to the garden, trapping *possibly forever*, the council of [[TODO! Theseus]], in a hell of their own creation. No food to eat, no water to drink, no escape to seek. The pristine cold walls they took comfort in now sought 

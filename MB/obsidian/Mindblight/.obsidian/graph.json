@@ -8,24 +8,38 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Concepts",
+      "query": "path:Concepts  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "Eras",
+      "query": "path:Eras  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "Factions",
+      "query": "path:Factions  ",
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 5399264
+      }
+    },
+    {
+      "query": "path:Items  ",
+      "color": {
+        "a": 1,
+        "rgb": 5751198
       }
     }
   ],
@@ -35,10 +49,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
+  "centerStrength": 0.325749464668094,
   "repelStrength": 0,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6906394964510802,
+  "linkStrength": 0.245806566738044,
+  "linkDistance": 331,
+  "scale": 1.0000000000000002,
   "close": true
 }

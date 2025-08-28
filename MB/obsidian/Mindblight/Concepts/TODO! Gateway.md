@@ -1,0 +1,1 @@
+Door-like passages to different worlds within the same [[TODO! Garden|TODO! Garden]]. They're usually found with commodity from the cognates, 
